@@ -1,2 +1,2 @@
-# EE3080_Design_and_Innovation_Project
-> The aim of the project is to develop a 10 cm x 10 cm mini-drone which able to fly semi-autonomously for stock-taking to reduce manual labor. By using a physical marker system called Aruco (written as ArUco), we are able to task the drone to fly a designated path within a warehouse. Secondly, by using OpenCV libraries for image recognition, the drone can identify individual stocks through scanning QR codes. The information on coordinates and where each stock is stored is fed back to the program GUI, for the human operator. The mini-drone was completed and tested in a simulated warehouse environment.
+# Uavonics_GroupB
+ Clone of all espdrone files. For our group to work on

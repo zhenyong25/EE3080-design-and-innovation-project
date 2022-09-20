@@ -1,0 +1,5 @@
+include README.md
+recursive-include src/edclient/configs *.json
+recursive-include src/edclient/ui *.ui
+recursive-include src/edclient/resources *
+include src/edclient/version.json
